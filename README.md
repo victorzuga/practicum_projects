@@ -4,7 +4,7 @@ These projects were completed in the course of training at Yandex.Practicum in t
 
 | Project | Description | Tools |
 | :--------------------- | :--------------------- | :--------------------- |
-| 1. Data analysis of the service "Yandex.Music" - comparison of users of two cities | _On real data from Yandex.Music using the Pandas library and its capabilities to check the data and compare the behavior and preferences of users in the two capitals — Moscow and St. Petersburg._| `python` `pandas` |
+| [1. Data analysis of the service "Yandex.Music" - comparison of users of two cities](music) | _On real data from Yandex.Music using the Pandas library and its capabilities to check the data and compare the behavior and preferences of users in the two capitals — Moscow and St. Petersburg._| `python` `pandas` |
 | 2. Borrower Reliability Study - Analysis of Banking Data | _On the basis of statistics on the solvency of clients, to investigate whether the marital status and the number of children of the client affect the fact of repaying the loan on time._| `python` `pandas` `data preprocessing` |
 | 3. Sale of apartments in St. Petersburg - analysis of the real estate market | _Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments._| `pandas` `matplotlib` `data preprocessing` `exploratory data analysis` `data visualization` |
 | 4. Determination of a favorable tariff for a telecom company | _Based on the data of the mobile operator's customers, analyze the behavior of customers and search for the optimal tariff._| `pandas` `matplotlib` `numpy` `scipy` `descriptive statistics` `statistical hypothesis testing`|
