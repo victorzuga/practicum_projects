@@ -13,7 +13,7 @@ These projects were completed in the course of training at Yandex.Practicum in t
 | [7. Customers photo processing](photo) | _Determination of age by photo._| `python` `keras`|
 | [8. Forecasting the Bank's customer churn](churn) | _Based on data from the bank, determine the client who can leave._| `pandas` `matplotlib` `scikit-learn`|
 | [9. Determining the most profitable region for oil extraction](oil_extraction) | _Based on the exploration geologists data, choose an oil field._| `pandas` `scikit-learn` `bootstrapping`|
-| [10. Study of the technological process of gold refining](oil_extraction) | _Predict the concentration of gold during the gold refining process._| `pandas` `matplotlib` `scikit-learn` `numpy` `scikit-learn` `exploratory data analysis`|
+| [10. Study of the technological process of gold refining](gold_refining) | _Predict the concentration of gold during the gold refining process._| `pandas` `matplotlib` `scikit-learn` `numpy` `scikit-learn` `exploratory data analysis`|
 | [11. Protection of data of clients of the insurance company](data_protection) | _Development of a personal data anonymization model._| `python` `numpy` `scikit-learn`|
 | [12. Building a model for determining the cost of a car](car_prices) | _Developing a system for recommending the value of a car based on its description._| `python` `pandas` `lightgbm`|
 | [13. Predicting the number of taxi orders for the next hour](time_taxi) | _Development of order volume prediction system._| `pandas` `statsmodels` `scikit-learn` |
